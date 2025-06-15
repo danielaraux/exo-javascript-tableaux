@@ -20,3 +20,7 @@ console.table(tab)
 console.table(["Janvier", "Fevrier", "Mars", "Avril", "Mai", "Juin", "Juillet", "Aout", "Septembre", "Octobre", "Novembre", "Decembre"])
 
 // On peut aussi créer une variable, stocker les mois dedans et l'afficher avec le console table pour avoir la mise en forme tableau
+
+// let month = new Array("Janvier", "Fevrier", "Mars", "Avril", "Mai", "Juin", "Juillet", "Aout", "Septembre", "Octobre", "Novembre", "Decembre")
+
+// console.table(month)
