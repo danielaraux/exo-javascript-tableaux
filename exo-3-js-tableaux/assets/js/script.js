@@ -1,10 +1,6 @@
-let date = Array();
-date[1] = "Lundi";
-date[2] = "Mardi";
-date[3] = "Mercredi";
-date[4] = "Jeudi";
-date[5] = "Vendredi";
-date[6] = "Samedi";
-date[7] = "Dimanche";
+let week = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"]
 
-console.table([date[6]])
+console.log(week[5])
+
+//On déclare notre variable week avec son contenu entre crochets. Le chiffre dans notre console.log aussi
+// On met 5 car ça compte automatiquement à partir de 0
